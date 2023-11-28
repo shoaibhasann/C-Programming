@@ -28,11 +28,19 @@ This repository serves as a record of my C programming journey. I started from t
 The repository is organized into directories corresponding to different stages of my learning journey. Each directory contains its own README file with a brief overview of the contents.
 
 ├── basics/
-│ 
 ├── intermediate/
-|
-│
 ├── advanced/
-│ 
-|
 └── README.md
+
+
+## Projects
+
+I've also worked on practical projects to apply my C programming skills. Check out the `projects` directory for details on each project, including their purpose and implementation.
+
+## Contributing
+
+If you have suggestions for improvements, find any issues, or want to contribute to my learning journey, feel free to open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE), so feel free to use, modify, and distribute the code.
