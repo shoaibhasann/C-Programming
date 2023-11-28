@@ -29,11 +29,15 @@ The repository is organized into directories corresponding to different stages o
 
 ├── basics/
 │ 
+|
+|
 ├── intermediate/
 |
 │
+|
 ├── advanced/
 │ 
+|
 |
 └── README.md
 
