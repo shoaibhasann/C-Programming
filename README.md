@@ -28,17 +28,8 @@ This repository serves as a record of my C programming journey. I started from t
 The repository is organized into directories corresponding to different stages of my learning journey. Each directory contains its own README file with a brief overview of the contents.
 
 ├── basics/
-│ 
-|
-|
 ├── intermediate/
-|
-│
-|
 ├── advanced/
-│ 
-|
-|
 └── README.md
 
 
