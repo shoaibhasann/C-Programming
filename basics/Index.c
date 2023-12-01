@@ -22,8 +22,6 @@ int isArmstrongNumber(int number)
     {
         remainder = originalNumber % 10;
         result += pow(remainder, n);
-        printf("remainder: %d\n", remainder);
-        printf("result: %d\n", result);
         originalNumber /= 10;
 
         printf("original number: %d\n", originalNumber);
