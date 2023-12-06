@@ -1,4 +1,4 @@
-# C Programming Learning Journey
+# ©️ Programming Learning Journey
 
 Welcome to my C programming learning repository! This repository contains the code and projects I've worked on while learning C programming, progressing from basic concepts to advanced topics.
 
