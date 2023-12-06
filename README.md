@@ -1,4 +1,5 @@
-# ©️ Programming Learning Journey
+# ![DiscordGIF](https://github.com/shoaibhasann/C-Programming/assets/112479144/b8eb6984-c20b-4be2-9c91-b5d983c7648d)
+ Programming Learning Journey
 
 Welcome to my C programming learning repository! This repository contains the code and projects I've worked on while learning C programming, progressing from basic concepts to advanced topics.
 
