@@ -1,3 +1,5 @@
+# ![WebsiteDevelopmentWebsiteGIF](https://github.com/shoaibhasann/C-Programming/assets/112479144/4c2e0792-1bf1-4b8a-ac16-6c44887660a9)
+
 # C Programming Learning Journey
 
 Welcome to my C programming learning repository! This repository contains the code and projects I've worked on while learning C programming, progressing from basic concepts to advanced topics.
@@ -21,17 +23,7 @@ This repository serves as a record of my C programming journey. I started from t
 
 2. **Intermediate:** As I progressed, I delved into more advanced topics such as functions, arrays, pointers, and structures. The `intermediate` directory contains code related to these concepts.
 
-3. **Advanced:** The `advanced` directory showcases my exploration of advanced C programming topics, including file handling, dynamic memory allocation, and advanced data structures.
-
-## Code Structure
-
-The repository is organized into directories corresponding to different stages of my learning journey. Each directory contains its own README file with a brief overview of the contents.
-
-├── basics/
-├── intermediate/
-├── advanced/
-└── README.md
-
+3. **Programs:** The `programs` directory showcases my problem solving skills using advanced C programming topics, including file handling, dynamic memory allocation, and advanced data structures.
 
 ## Projects
 
